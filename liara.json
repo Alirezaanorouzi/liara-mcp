@@ -1,0 +1,11 @@
+{
+  "app": "liara-paas-mcp",
+  "platform": "node",
+  "port": 3000,
+  "node": {
+    "version": "22"
+  },
+  "build": {
+    "command": "npm run build"
+  }
+}
